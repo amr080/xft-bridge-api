@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+Disallow: /edit/
+Disallow: /v*/edit/
+Disallow: /suggested-edits/
+Disallow: /login
+Disallow: /logout
