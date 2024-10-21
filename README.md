@@ -12,6 +12,7 @@ Deployments
 1. [website](https://xft-bridge.netlify.app/)
 2. master [api docs v1](https://xft-bridge-api.netlify.app/) [broken]
 3. deploy [api docs v2](https://xft-bridge-api2.netlify.app/)
+4. output.html
 
 
 Deploy works with 
