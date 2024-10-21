@@ -14,4 +14,11 @@ Deployments
 3. deploy [api docs v2](https://xft-bridge-api2.netlify.app/)
 
 
-wget -r -k -E -l 10 -p -np -w 1 -e robots=off <URL>
+Deploy works with 
+
+- https://xft-bridge-api2.netlify.app/docs/external-accounts?json=on
+- ?json=on
+- wget -r -k -E -l 10 -p -np -w 1 -e robots=off <URL>
+
+
+
