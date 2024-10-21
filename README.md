@@ -12,3 +12,6 @@ Deployments
 1. [website](https://xft-bridge.netlify.app/)
 2. [api docs v1](https://xft-bridge-api.netlify.app/) [broken]
 3. [api docs v2](https://xft-bridge-api2.netlify.app/)
+
+
+wget -r -k -E -l 10 -p -np -w 1 -e robots=off <URL>
