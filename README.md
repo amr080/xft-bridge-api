@@ -10,4 +10,5 @@ We make money move at the pace of the internet.
 Deployments
 
 1. [website](https://xft-bridge.netlify.app/)
-2. [api docs](#)
+2. [api docs v1](https://xft-bridge-api.netlify.app/) [broken]
+3. [api docs v2](https://xft-bridge-api2.netlify.app/)
